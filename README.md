@@ -1,2 +1,4 @@
-# test_repo
-# I'm adding text as a test to see if there is a change.
+# FinTech Repository
+## Fintech Repository
+### Fintech Repository
+Welcome to my repository for Fintech projects. PLease explore the codebase!
